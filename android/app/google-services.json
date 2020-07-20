@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2118158964",
+    "firebase_url": "https://crime-266aa.firebaseio.com",
+    "project_id": "crime-266aa",
+    "storage_bucket": "crime-266aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2118158964:android:476d5c76778ad0b3739f21",
+        "android_client_info": {
+          "package_name": "com.example.one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2118158964-oo9ip41icoj7ci6tp6duc8dc0o8ql0e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcu1iJEN4SXGcZUr5W8PIo8-eLxSjAZt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2118158964-oo9ip41icoj7ci6tp6duc8dc0o8ql0e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
