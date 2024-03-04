@@ -8,3 +8,5 @@ Users can also inform the hospitals about the health conditions of the victims a
 Users can view the status of their reports and get updates from the authorities.
 ## Motivation
 The motivation behind this project is to provide a quick and easy way for the public to report crimes and get help. By using this app, users can contribute to the safety and security of their communities and themselves. This app also aims to reduce the response time and improve the efficiency of the emergency services.
+
+Please refer to project documentation here: https://drive.google.com/file/d/1bSHnBAmYaVxtaW0hDb0Kc2dyhSLaSiUq/view?usp=drive_link
